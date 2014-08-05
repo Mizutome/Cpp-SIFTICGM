@@ -1,1 +1,0 @@
-/home/huagc/SIFTICGM/CMakeFiles/SIFTICGM.dir

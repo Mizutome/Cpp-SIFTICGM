@@ -1,3 +1,0 @@
-This is my team research in my graduate school.
-Use SIRF in OpenCV to discriminate dynamic object and environment.
- 
